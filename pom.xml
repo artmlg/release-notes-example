@@ -3,7 +3,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>release-notes-example</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>release-notes-example</name>
@@ -13,7 +13,7 @@
         <connection>scm:git:https://github.com/artmlg/release-notes-example.git</connection>
         <developerConnection>scm:git:https://github.com/artmlg/release-notes-example.git</developerConnection>
         <url>scm:git:https://github.com/artmlg/release-notes-example</url>
-      <tag>release-notes-example-1.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <properties>
